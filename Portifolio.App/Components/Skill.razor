@@ -1,0 +1,94 @@
+<!-- Skill Start -->
+<div class="container-fluid py-5" id="skill">
+    <div class="container">
+        <div class="position-relative d-flex align-items-center justify-content-center">
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Skills</h1>
+            <h1 class="position-absolute text-uppercase text-primary">My Skills</h1>
+        </div>
+        <div class="row align-items-center justify-content-around">
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/c.svg" alt="C#" class="tech-icon" title="C#">
+                <p class="tech-name">C#</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/dot-net.svg" alt=".NET" class="tech-icon" title=".NET">
+                <p class="tech-name">.NET</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/php.svg" alt="PHP" class="tech-icon" title="PHP">
+                <p class="tech-name">PHP</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/javascript.svg" alt="Javascript" class="tech-icon" title="Javascript">
+                <p class="tech-name">Javascript</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/html.svg" alt="HTML" class="tech-icon" title="HTML">
+                <p class="tech-name">HTML</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/css.svg" alt="CSS" class="tech-icon" title="CSS">
+                <p class="tech-name">CSS</p>
+            </div>
+        </div>
+        <div class="row align-items-center justify-content-around">
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/laravel.svg" alt="laravel" class="tech-icon" title="Laravel">
+                <p class="tech-name">Laravel</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/azure.svg" alt="azure" class="tech-icon" title="Azure">
+                <p class="tech-name">Azure</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/sql.svg" alt="sql-server" class="tech-icon" title="SQL Server">
+                <p class="tech-name">SQL Server</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/sql-2.svg" alt="sql" class="tech-icon" title="SQL">
+                <p class="tech-name">SQL</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/aws.svg" alt="aws" class="tech-icon" title="AWS">
+                <p class="tech-name">AWS</p>
+            </div>
+            <div class="col-md-2 skill mb-2">
+                <img src="assets/img/docker.svg" alt="docker" class="tech-icon" title="Docker">
+                <p class="tech-name">Docker</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Skill End -->
+
+<!-- Adicionando o CSS -->
+<style>
+    .tech-icon {
+        width: 50px;
+        height: 50px;
+        transition: transform 0.3s ease-in-out;
+        cursor: pointer;
+    }
+
+    .tech-icon:hover {
+        transform: scale(1.8);
+    }
+
+    .skill {
+        margin-bottom: 20vh !important;
+        position: relative;
+    }
+
+    .tech-name {
+        position: absolute;
+        bottom: -20px;
+        left: 60%;
+        transform: translateX(-40%);
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .skill:hover .tech-name {
+        opacity: 1;
+    }
+</style>

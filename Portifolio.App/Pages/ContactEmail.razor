@@ -1,0 +1,46 @@
+@page "/ContactEmail"
+@using System.Net.Mail
+@using Portifolio.App.Model
+
+<h3>Formulário de Envio de Email</h3>
+
+<EditForm Model="@EmailModel" OnValidSubmit="@SendEmail">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText id="email" @bind-Value="EmailModel.Email" placeholder="Email" />
+    <br/>
+    <InputTextArea id="message" @bind-Value="EmailModel.Message" placeholder="Mensagem" />
+    <br/>
+    <button type="submit">Enviar</button>
+</EditForm>
+
+@code {
+    private EmailModel EmailModel = new EmailModel();
+
+    private async Task SendEmail()
+    {
+        try
+        {
+            MailMessage mail = new MailMessage();
+            SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
+
+            mail.From = new MailAddress("mizaeldouglas2@gmail.com");
+            mail.To.Add(EmailModel.Email);
+            mail.Subject = "Assunto do Email";
+            mail.Body = EmailModel.Message;
+
+            SmtpServer.Port = 587;
+            SmtpServer.Credentials = new System.Net.NetworkCredential("mizaeldouglas2@gmail.com", "password");
+            SmtpServer.EnableSsl = true;
+
+            SmtpServer.Send(mail);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.ToString());
+        }
+    }
+    
+        
+}

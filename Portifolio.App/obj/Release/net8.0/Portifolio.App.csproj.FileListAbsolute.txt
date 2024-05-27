@@ -1,0 +1,7 @@
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Release/net8.0/Portifolio.App.csproj.AssemblyReference.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Release/net8.0/Portifolio.App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Release/net8.0/Portifolio.App.AssemblyInfoInputs.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Release/net8.0/Portifolio.App.AssemblyInfo.cs
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Release/net8.0/Portifolio.App.csproj.CoreCompileInputs.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Release/net8.0/Portifolio.App.MvcApplicationPartsAssemblyInfo.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Release/net8.0/Portifolio.App.sourcelink.json

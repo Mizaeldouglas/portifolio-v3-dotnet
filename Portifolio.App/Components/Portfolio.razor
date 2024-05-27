@@ -1,0 +1,62 @@
+<!-- Portfolio Start -->
+<div class="container-fluid pt-5 pb-3" id="portfolio">
+    <div class="container">
+        <div class="position-relative d-flex align-items-center justify-content-center">
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Gallery</h1>
+            <h1 class="position-absolute text-uppercase text-primary">My Portfolio</h1>
+        </div>
+        <div class="row portfolio-container">
+            @foreach(var portfolio in _portfolioModels)
+            {
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded portfolio-img" src="@portfolio.UrlImage" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="@portfolio.UrlImage" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+                <h1 class="text-primary font-weight-bold">@portfolio.NameProject</h1>
+                <span class="text-secondary font-weight-light ">@portfolio.Description</span>
+                <div class="position-relative overflow-hidden mb-2">
+                    @if (portfolio.UrlGithub.Equals("") == false)
+                    {
+                        <a class="font-weight-bold" href="@portfolio.UrlGithub">GITHUB</a> 
+                        <span> | </span>
+                    }
+                    @if(portfolio.UrlProject.Equals("") == false)
+                    {
+                    <a class="font-weight-bold" href="@portfolio.UrlProject">PROJETO</a>
+                    }
+                    
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- Portfolio End -->
+
+<!-- Adicionando o CSS -->
+<style>
+    .portfolio-img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+</style>
+
+
+@code {
+    [Parameter, EditorRequired]
+    public required HttpClient Http { get; set; }
+    
+    private List<PortfolioModel>? _portfolioModels;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _portfolioModels = await Http.GetFromJsonAsync<List<PortfolioModel>>("sample-data/portfolio.json");
+    }
+
+}

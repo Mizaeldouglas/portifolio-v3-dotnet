@@ -1,0 +1,729 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Debug/net8.0/compressed/0os7ac3rv1.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Debug/net8.0/scopedcss/bundle/Portifolio.App.styles.css",
+      "PackagePath": "staticwebassets/Portifolio.App.styles.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Debug/net8.0/service-worker-assets.js",
+      "PackagePath": "staticwebassets/service-worker-assets.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/obj/Debug/net8.0/service-worker/service-worker.published.js",
+      "PackagePath": "staticwebassets/service-worker.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/appsettings.Development.json",
+      "PackagePath": "staticwebassets/appsettings.Development.json"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/appsettings.json",
+      "PackagePath": "staticwebassets/appsettings.json"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/css/style.min.css",
+      "PackagePath": "staticwebassets/assets/css/style.min.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/freelancer-portfolio-template.jpg",
+      "PackagePath": "staticwebassets/assets/freelancer-portfolio-template.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/1688469779687.jpg",
+      "PackagePath": "staticwebassets/assets/img/1688469779687.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/IMG_20220116_115214.jpg",
+      "PackagePath": "staticwebassets/assets/img/IMG_20220116_115214.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/about.jpg",
+      "PackagePath": "staticwebassets/assets/img/about.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/avatarPNG.png",
+      "PackagePath": "staticwebassets/assets/img/avatarPNG.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/aws.svg",
+      "PackagePath": "staticwebassets/assets/img/aws.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/azure.svg",
+      "PackagePath": "staticwebassets/assets/img/azure.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/blog-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/blog-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/blog-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/c.svg",
+      "PackagePath": "staticwebassets/assets/img/c.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/css.svg",
+      "PackagePath": "staticwebassets/assets/img/css.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/docker.svg",
+      "PackagePath": "staticwebassets/assets/img/docker.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/dot-net.svg",
+      "PackagePath": "staticwebassets/assets/img/dot-net.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/favicon.ico",
+      "PackagePath": "staticwebassets/assets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/html.svg",
+      "PackagePath": "staticwebassets/assets/img/html.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/javascript.svg",
+      "PackagePath": "staticwebassets/assets/img/javascript.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/laravel.svg",
+      "PackagePath": "staticwebassets/assets/img/laravel.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/loading.svg",
+      "PackagePath": "staticwebassets/assets/img/loading.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/php.svg",
+      "PackagePath": "staticwebassets/assets/img/php.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/portfolio-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/portfolio-1.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/portfolio-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/portfolio-2.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/portfolio-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/portfolio-3.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/portfolio-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/portfolio-4.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/portfolio-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/portfolio-5.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/portfolio-6.jpg",
+      "PackagePath": "staticwebassets/assets/img/portfolio-6.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/profile.jpg",
+      "PackagePath": "staticwebassets/assets/img/profile.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/sql-2.svg",
+      "PackagePath": "staticwebassets/assets/img/sql-2.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/sql.svg",
+      "PackagePath": "staticwebassets/assets/img/sql.svg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/assets/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/assets/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/isotope/isotope.pkgd.js",
+      "PackagePath": "staticwebassets/assets/lib/isotope/isotope.pkgd.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/isotope/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/assets/lib/isotope/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/css/lightbox.css",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/css/lightbox.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/css/lightbox.min.css",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/css/lightbox.min.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/images/close.png",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/images/close.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/images/loading.gif",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/images/loading.gif"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/images/next.png",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/images/next.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/images/prev.png",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/images/prev.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/js/lightbox.js",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/js/lightbox.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/js/lightbox.min.js",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/js/lightbox.min.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/lightbox/links.php",
+      "PackagePath": "staticwebassets/assets/lib/lightbox/links.php"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/assets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/typed/typed.js",
+      "PackagePath": "staticwebassets/assets/lib/typed/typed.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/typed/typed.min.js",
+      "PackagePath": "staticwebassets/assets/lib/typed/typed.min.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/waypoints/links.php",
+      "PackagePath": "staticwebassets/assets/lib/waypoints/links.php"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/lib/waypoints/waypoints.min.js",
+      "PackagePath": "staticwebassets/assets/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/mail/contact.js",
+      "PackagePath": "staticwebassets/assets/mail/contact.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/mail/contact.php",
+      "PackagePath": "staticwebassets/assets/mail/contact.php"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/mail/jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets/assets/mail/jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_alert.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_alert.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_badge.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_badge.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_button-group.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_card.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_card.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_carousel.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_close.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_close.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_code.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_code.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_custom-forms.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_custom-forms.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_forms.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_forms.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_functions.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_functions.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_grid.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_grid.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_images.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_images.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_input-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_input-group.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_jumbotron.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_jumbotron.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_list-group.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_media.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_media.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_modal.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_modal.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_nav.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_nav.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_pagination.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_popover.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_popover.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_print.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_print.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_progress.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_progress.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_reboot.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_root.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_root.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_spinners.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_tables.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_tables.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_toasts.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_transitions.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_type.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_type.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_utilities.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/_variables.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_background-variant.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_background-variant.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_float.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_float.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_grid-framework.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_grid-framework.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_nav-divider.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_nav-divider.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_screen-reader.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_size.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_size.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_table-row.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_table-row.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_text-emphasis.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_text-emphasis.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_text-hide.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_text-hide.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/mixins/_visibility.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/mixins/_visibility.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_align.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_align.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_background.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_background.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_borders.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_borders.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_clearfix.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_display.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_display.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_embed.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_embed.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_flex.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_flex.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_float.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_float.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_interactions.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_interactions.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_overflow.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_overflow.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_position.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_position.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_screenreaders.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_screenreaders.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_shadows.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_shadows.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_sizing.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_sizing.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_spacing.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_spacing.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_stretched-link.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_text.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_text.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/utilities/_visibility.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/utilities/_visibility.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/bootstrap/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/assets/scss/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/assets/scss/style.scss",
+      "PackagePath": "staticwebassets/assets/scss/style.scss"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/icon-512.png",
+      "PackagePath": "staticwebassets/icon-512.png"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/manifest.webmanifest",
+      "PackagePath": "staticwebassets/manifest.webmanifest"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/sample-data/about.json",
+      "PackagePath": "staticwebassets/sample-data/about.json"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/sample-data/hero.json",
+      "PackagePath": "staticwebassets/sample-data/hero.json"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/sample-data/heroimages.json",
+      "PackagePath": "staticwebassets/sample-data/heroimages.json"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/sample-data/portfolio.json",
+      "PackagePath": "staticwebassets/sample-data/portfolio.json"
+    },
+    {
+      "Id": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Portifolio.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Portifolio.App.props",
+      "PackagePath": "build\\Portifolio.App.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Portifolio.App.props",
+      "PackagePath": "buildMultiTargeting\\Portifolio.App.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Portifolio.App.props",
+      "PackagePath": "buildTransitive\\Portifolio.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

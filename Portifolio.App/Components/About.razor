@@ -1,0 +1,65 @@
+<!-- About Start -->
+<div class="container-fluid py-5" id="about">
+    <div class="container">
+        <div class="position-relative d-flex align-items-center justify-content-center">
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">About</h1>
+            <h1 class="position-absolute text-uppercase text-primary">About Me</h1>
+        </div>
+        @if (aboutModel is null)
+        {
+        }
+        else
+        {
+            <div class="row align-items-center">
+                <div class="col-lg-5 pb-4 pb-lg-0">
+                    <img class="img-fluid rounded w-100" src="assets/img/1688469779687.jpg" alt="">
+                </div>
+                <div class="col-lg-7">
+                    <h3 class="mb-4">@aboutModel.Title</h3>
+                    <p>
+                        @aboutModel.Description
+                    </p>
+                    <div class="row mb-3">
+                        <div class="col-sm-6 py-2">
+                            <h6>Nome: <span class="text-secondary">@aboutModel.Name</span></h6>
+                        </div>
+                        <div class="col-sm-6 py-2">
+                            <h6>Aniversario: <span class="text-secondary">@aboutModel.Birthday.ToString("dd/MM/yyyy")</span></h6>
+                        </div>
+                        <div class="col-sm-6 py-2">
+                            <h6>Telefone: <span class="text-secondary">@aboutModel.Phone</span></h6>
+                        </div>
+                        <div class="col-sm-6 py-2">
+                            <h6>Email: <span class="text-secondary">@aboutModel.Email</span></h6>
+                        </div>
+                        <div class="col-sm-6 py-2">
+                            <h6>
+                                Endereço:
+                                <span
+                                    class="text-secondary">
+                                    @aboutModel.Address
+                                </span>
+                            </h6>
+                        </div>
+                        <div class="col-sm-6 py-2">
+                            <h6>Freelance: <span class="text-secondary">Disponivel</span></h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<!-- About End -->
+
+@code {
+    [Parameter, EditorRequired] public required HttpClient Http { get; set; }
+
+    private AboutModel? aboutModel;
+
+    protected override async Task OnInitializedAsync()
+    {
+        aboutModel = await Http.GetFromJsonAsync<AboutModel>("sample-data/about.json");
+    }
+
+}

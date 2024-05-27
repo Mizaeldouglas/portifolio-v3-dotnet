@@ -1,0 +1,60 @@
+@inject IJSRuntime JSRuntime
+
+<!-- Video Modal Start -->
+<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <!-- 16:9 aspect ratio -->
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KbThgfSu8EI?si=lqARgy3rulDJ8CrQ" id="video" allowscriptaccess="always"
+                            allow="autoplay">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Video Modal End -->
+
+
+<!-- Header Start -->
+<div class="container-fluid bg-primary d-flex align-items-center mb-5 py-5" id="home" style="min-height: 100vh;">
+    <div class="container">
+
+        <div class="row align-items-center">
+            <div class="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
+                <img class="img-fluid w-100 rounded-circle shadow-sm" src="assets/img/avatarPNG.png" alt="">
+            </div>
+            <div class="col-lg-7 text-center text-lg-left">
+                <h3 class="text-white font-weight-normal mb-3">I'm</h3>
+                <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">Mizael Douglas</h1>
+                <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
+                <div class="typed-text d-none">Desenvolvedor Full-Stack, Desenvolvedor Back-end, Desenvolvedor C# | .NET, Desenvolvedor PHP | Laravel, HTML | CSS | JS, SQL Server | MySQL</div>
+                <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
+                    <a href="https://docs.google.com/document/d/1jesJ0pQFrvz9rhJ-LvJwu-YsLQvgZZZ4iaqme8lLtcA/edit?usp=sharing" target="_blank" class="btn btn-outline-light mr-5">Download CV</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- Header End -->
+
+
+@code {
+    [Parameter, EditorRequired] public required HttpClient Http { get; set; }
+
+    private HeroModel? heroModel;
+
+    protected override async Task OnInitializedAsync()
+    {
+        heroModel = await Http.GetFromJsonAsync<HeroModel>("sample-data/hero.json");
+        await JSRuntime.InvokeVoidAsync("initTypingEffect");
+    }
+
+}
